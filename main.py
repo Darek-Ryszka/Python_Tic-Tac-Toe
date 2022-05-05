@@ -16,3 +16,8 @@ def empty_spaces():
 
 def new_game():
     pass
+
+window = Tk()
+
+
+window.mainloop()
