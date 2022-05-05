@@ -26,4 +26,7 @@ buttons = [[0,0,0],
            [0,0,0],
            [0,0,0]]
 
+label = Label(text=player + " turn", font=('consolas',40))
+label.pack(side="top")
+
 window.mainloop()
