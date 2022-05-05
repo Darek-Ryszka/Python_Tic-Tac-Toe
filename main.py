@@ -17,7 +17,13 @@ def empty_spaces():
 def new_game():
     pass
 
-window = Tk()
 
+window = Tk()
+window.title("Tic-Tac-Toe")
+players = ["x","o"]
+player = random.choice(players)
+buttons = [[0,0,0],
+           [0,0,0],
+           [0,0,0]]
 
 window.mainloop()
