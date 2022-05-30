@@ -2,7 +2,7 @@
 Python Tic_Tac_Toe Game
 
 ## General info
-This project is simple Tic Tac Toe Game using Tkinter library
+This project is a simple Tic Tac Toe Game using Tkinter library
 
 ## Technologies
 * Pytohon version: 3.8
